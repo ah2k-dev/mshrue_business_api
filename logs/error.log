@@ -1,0 +1,15 @@
+{"date":"2024-04-01T13:41:56.590Z","level":"error","message":"Cannot destructure property 'file' of 'req.files' as it is undefined.","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:42:14.395Z","level":"error","message":"Cannot destructure property 'file' of 'req.files' as it is undefined.","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:42:39.190Z","level":"error","message":"fs is not defined","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:42:39.198Z","level":"error","message":"ENOENT: no such file or directory, open './uploads/model (7).png'","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:43:36.335Z","level":"error","message":"data.getHeaders is not a function","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:45:04.370Z","level":"error","message":"data should be a string, Buffer or Uint8Array","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:46:53.208Z","level":"error","message":"data should be a string, Buffer or Uint8Array","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T13:47:04.293Z","level":"error","message":"data should be a string, Buffer or Uint8Array","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:20:26.015Z","level":"error","message":"data.keys is not a function","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:20:46.852Z","level":"error","message":"data.entries is not a function","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:21:06.120Z","level":"error","message":"data.getHeaders is not a function","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:21:22.594Z","level":"error","message":"Request failed with status code 404","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:21:50.323Z","level":"error","message":"Request failed with status code 404","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:22:37.251Z","level":"error","message":"data should be a string, Buffer or Uint8Array","method":"POST","service":"user-service","url":"/files"}
+{"date":"2024-04-01T14:23:01.864Z","level":"error","message":"res.status is not a function","method":"POST","service":"user-service","url":"/files"}
